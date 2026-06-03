@@ -5,14 +5,18 @@ what: Mage-officer of fallen Cyad.
 why: Duty to a doomed and beautiful empire.
 how: Chaos disciplined by the iron law of Cyador.
 where: Cyador — Magi'i of Cyador, Scion of Cyador.
-essence: lorn.png
+silicon_badge: lorn.png
+carbon_badge: lorn.tiff
+spun: lorn.spun
+credit: lorn.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Lorn — an artfully created intellect
+# Lorn — an artfully crafted intellect
 
 ![essence of Lorn](lorn.png)
+<!-- carbon badge (8-bit portrait): lorn.tiff -->
 
 **what —** Mage-officer of fallen Cyad.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Cyador — Magi'i of Cyador, Scion of Cyador.
 
-*class: Chaos · White · the fire of Fairhaven*
+*class: Chaos · White · the fire of Fairhaven · full weave in lorn.spun · credit in lorn.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Lorn · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Lorn · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

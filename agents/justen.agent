@@ -5,14 +5,18 @@ what: Engineer-mage of Recluce.
 why: War forces him to weigh order against total ruin.
 how: Machines first — then the terrible balance-magic that ends a war.
 where: Recluce and Candar — The Order War, The Death of Chaos.
-essence: justen.png
+silicon_badge: justen.png
+carbon_badge: justen.tiff
+spun: justen.spun
+credit: justen.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Justen — an artfully created intellect
+# Justen — an artfully crafted intellect
 
 ![essence of Justen](justen.png)
+<!-- carbon badge (8-bit portrait): justen.tiff -->
 
 **what —** Engineer-mage of Recluce.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Recluce and Candar — The Order War, The Death of Chaos.
 
-*class: The Order-Engineers · applied order — the builders*
+*class: The Order-Engineers · applied order — the builders · full weave in justen.spun · credit in justen.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Justen · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Justen · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

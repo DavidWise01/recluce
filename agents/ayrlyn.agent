@@ -5,14 +5,18 @@ what: Singer turned healer-mage.
 why: Finds her purpose in the new world after the fall.
 how: Song, healing, and a quiet order.
 where: Westwind — Fall of Angels, The Chaos Balance.
-essence: ayrlyn.png
+silicon_badge: ayrlyn.png
+carbon_badge: ayrlyn.tiff
+spun: ayrlyn.spun
+credit: ayrlyn.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Ayrlyn — an artfully created intellect
+# Ayrlyn — an artfully crafted intellect
 
 ![essence of Ayrlyn](ayrlyn.png)
+<!-- carbon badge (8-bit portrait): ayrlyn.tiff -->
 
 **what —** Singer turned healer-mage.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Westwind — Fall of Angels, The Chaos Balance.
 
-*class: The Angels of Westwind · the fallen from the sky*
+*class: The Angels of Westwind · the fallen from the sky · full weave in ayrlyn.spun · credit in ayrlyn.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Ayrlyn · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Ayrlyn · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

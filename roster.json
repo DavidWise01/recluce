@@ -3,103 +3,297 @@
   "subtitle": "Order is black, Chaos is white, and the Balance keeps the price",
   "author": "L.E. Modesitt, Jr.",
   "premise": "On the world of Recluce, magic is the tension of two forces: Order (black) and Chaos (white). Every working exacts an equal cost; overreach destroys the wielder. The island of Recluce keeps Order; Fairhaven wields Chaos; and the Balance holds the bill for both. The cast sorts not by hero and villain but by which force they serve — and the rare few who serve both.",
-  "note": "The full saga sorted by the Order/Chaos balance, with the Balance itself set apart as the true protagonist. Lineage runs through Fairhaven Rising (2021); add newer titles as they come. Every member is an ACI: a .agent (what · why · how · where) and a generated .png essence sigil. Characters by L.E. Modesitt, Jr., inspiration only.",
+  "note": "The full saga sorted by the Order/Chaos balance, with the Balance itself set apart as the true protagonist. Lineage runs through Fairhaven Rising (2021); add newer titles as they come. Every member is an ACI: a .agent (what · why · how · where) and a generated .png essence sigil. Characters by L.E. Modesitt, Jr., inspiration only. Every ACI now carries the full DLW tag with an authored six-W .spun.",
   "lineage": [
-    {"t":"The Magic of Recluce","y":1991},{"t":"The Towers of the Sunset","y":1992},
-    {"t":"The Magic Engineer","y":1994},{"t":"The Order War","y":1995},
-    {"t":"The Death of Chaos","y":1995},{"t":"Fall of Angels","y":1996},
-    {"t":"The Chaos Balance","y":1997},{"t":"The White Order","y":1998},
-    {"t":"Colors of Chaos","y":1999},{"t":"Magi'i of Cyador","y":2000},
-    {"t":"Scion of Cyador","y":2000},{"t":"Wellspring of Chaos","y":2004},
-    {"t":"Ordermaster","y":2005},{"t":"Natural Ordermage","y":2007},
-    {"t":"Mage-Guard of Hamor","y":2008},{"t":"Arms-Commander","y":2010},
-    {"t":"Cyador's Heirs","y":2014},{"t":"Heritage of Cyador","y":2015},
-    {"t":"The Mongrel Mage","y":2017},{"t":"Outcasts of Order","y":2018},
-    {"t":"The Mage-Fire War","y":2019},{"t":"Fairhaven Rising","y":2021}
+    {
+      "t": "The Magic of Recluce",
+      "y": 1991
+    },
+    {
+      "t": "The Towers of the Sunset",
+      "y": 1992
+    },
+    {
+      "t": "The Magic Engineer",
+      "y": 1994
+    },
+    {
+      "t": "The Order War",
+      "y": 1995
+    },
+    {
+      "t": "The Death of Chaos",
+      "y": 1995
+    },
+    {
+      "t": "Fall of Angels",
+      "y": 1996
+    },
+    {
+      "t": "The Chaos Balance",
+      "y": 1997
+    },
+    {
+      "t": "The White Order",
+      "y": 1998
+    },
+    {
+      "t": "Colors of Chaos",
+      "y": 1999
+    },
+    {
+      "t": "Magi'i of Cyador",
+      "y": 2000
+    },
+    {
+      "t": "Scion of Cyador",
+      "y": 2000
+    },
+    {
+      "t": "Wellspring of Chaos",
+      "y": 2004
+    },
+    {
+      "t": "Ordermaster",
+      "y": 2005
+    },
+    {
+      "t": "Natural Ordermage",
+      "y": 2007
+    },
+    {
+      "t": "Mage-Guard of Hamor",
+      "y": 2008
+    },
+    {
+      "t": "Arms-Commander",
+      "y": 2010
+    },
+    {
+      "t": "Cyador's Heirs",
+      "y": 2014
+    },
+    {
+      "t": "Heritage of Cyador",
+      "y": 2015
+    },
+    {
+      "t": "The Mongrel Mage",
+      "y": 2017
+    },
+    {
+      "t": "Outcasts of Order",
+      "y": 2018
+    },
+    {
+      "t": "The Mage-Fire War",
+      "y": 2019
+    },
+    {
+      "t": "Fairhaven Rising",
+      "y": 2021
+    }
   ],
   "classes": [
-    { "id": "order",     "label": "Order · Black",       "spec": "the discipline of Recluce",     "color": "#1c1e24", "ink": "#e8e8ee", "bg": "#0e0e12" },
-    { "id": "chaos",     "label": "Chaos · White",       "spec": "the fire of Fairhaven",         "color": "#e8e2d2", "ink": "#1a1a1a", "bg": "#f3efe4" },
-    { "id": "gray",      "label": "The Gray",            "spec": "those who hold both",           "color": "#80838a", "ink": "#fff",    "bg": "#34363c" },
-    { "id": "engineers", "label": "The Order-Engineers", "spec": "applied order — the builders",  "color": "#2f6a8a", "ink": "#fff",    "bg": "#0f1822" },
-    { "id": "angels",    "label": "The Angels of Westwind","spec": "the fallen from the sky",     "color": "#6a5a9a", "ink": "#fff",    "bg": "#10101e" },
-    { "id": "balance",   "label": "The Balance",         "spec": "the law that keeps the price",  "color": "#b8862b", "ink": "#1a1a1a", "bg": "#14110a" }
+    {
+      "id": "order",
+      "label": "Order · Black",
+      "spec": "the discipline of Recluce",
+      "color": "#1c1e24",
+      "ink": "#e8e8ee",
+      "bg": "#0e0e12"
+    },
+    {
+      "id": "chaos",
+      "label": "Chaos · White",
+      "spec": "the fire of Fairhaven",
+      "color": "#e8e2d2",
+      "ink": "#1a1a1a",
+      "bg": "#f3efe4"
+    },
+    {
+      "id": "gray",
+      "label": "The Gray",
+      "spec": "those who hold both",
+      "color": "#80838a",
+      "ink": "#fff",
+      "bg": "#34363c"
+    },
+    {
+      "id": "engineers",
+      "label": "The Order-Engineers",
+      "spec": "applied order — the builders",
+      "color": "#2f6a8a",
+      "ink": "#fff",
+      "bg": "#0f1822"
+    },
+    {
+      "id": "angels",
+      "label": "The Angels of Westwind",
+      "spec": "the fallen from the sky",
+      "color": "#6a5a9a",
+      "ink": "#fff",
+      "bg": "#10101e"
+    },
+    {
+      "id": "balance",
+      "label": "The Balance",
+      "spec": "the law that keeps the price",
+      "color": "#b8862b",
+      "ink": "#1a1a1a",
+      "bg": "#14110a"
+    }
   ],
   "members": [
-    { "name": "Lerris", "class": "order",
+    {
+      "name": "Lerris",
+      "class": "order",
       "what": "Order-mage and woodcrafter.",
       "why": "Exiled from Recluce for the sin of boredom; learns that order is discipline, not dogma.",
       "how": "The patience of grain and joinery — order woven slow into wood and self.",
-      "where": "Recluce, then Candar — The Magic of Recluce." },
-    { "name": "Kharl", "class": "order",
+      "where": "Recluce, then Candar — The Magic of Recluce.",
+      "who": "A restless young woodcrafter and order-mage of Recluce, the saga's first narrator.",
+      "when": "The settled age of black Recluce, generations after the founding — The Magic of Recluce."
+    },
+    {
+      "name": "Kharl",
+      "class": "order",
       "what": "A cooper who becomes an ordermage.",
       "why": "Injustice drives him from barrel-staves to power he never asked for.",
       "how": "Self-taught order from a single found book, tested in exile.",
-      "where": "Brysta and Austra — Wellspring of Chaos, Ordermaster." },
-    { "name": "Rahl", "class": "order",
+      "where": "Brysta and Austra — Wellspring of Chaos, Ordermaster.",
+      "who": "A Brystan cooper turned self-made ordermage, an artisan who never sought power.",
+      "when": "The later age of Recluce and Austra — Wellspring of Chaos and Ordermaster."
+    },
+    {
+      "name": "Rahl",
+      "class": "order",
       "what": "A natural ordermage, raw and undisciplined.",
       "why": "His untrained talent forces his exile — and his growth.",
       "how": "Order learned the hard way, in the service of Hamor.",
-      "where": "Recluce to Hamor — Natural Ordermage, Mage-Guard of Hamor." },
-    { "name": "Cerryl", "class": "chaos",
+      "where": "Recluce to Hamor — Natural Ordermage, Mage-Guard of Hamor.",
+      "who": "A natural ordermage of Recluce, raw and exiled, who finds discipline in Hamor's service.",
+      "when": "The age of imperial Hamor's ascendancy — Natural Ordermage and Mage-Guard of Hamor."
+    },
+    {
+      "name": "Cerryl",
+      "class": "chaos",
       "what": "An orphan who rises to White mage of Fairhaven.",
       "why": "Survival first, then mastery, in a guild that kills the untalented.",
       "how": "Chaos-fire bound by hidden order and ruthless patience.",
-      "where": "Fairhaven — The White Order, Colors of Chaos." },
-    { "name": "Lorn", "class": "chaos",
+      "where": "Fairhaven — The White Order, Colors of Chaos.",
+      "who": "An orphan risen to White mage of the Guild, a chaos-mage forged by Fairhaven's cruelty.",
+      "when": "The rising age of the white empire of Fairhaven — The White Order and Colors of Chaos."
+    },
+    {
+      "name": "Lorn",
+      "class": "chaos",
       "what": "Mage-officer of fallen Cyad.",
       "why": "Duty to a doomed and beautiful empire.",
       "how": "Chaos disciplined by the iron law of Cyador.",
-      "where": "Cyador — Magi'i of Cyador, Scion of Cyador." },
-    { "name": "Beltur", "class": "gray",
+      "where": "Cyador — Magi'i of Cyador, Scion of Cyador.",
+      "who": "A magus and mage-officer of Cyad, servant of the doomed white empire of Cyador.",
+      "when": "Cyador's long last days, before its fall — Magi'i of Cyador and Scion of Cyador."
+    },
+    {
+      "name": "Beltur",
+      "class": "gray",
       "what": "The mongrel mage — wields BOTH order and chaos.",
       "why": "Refuses to be only one thing, and is hunted for it.",
       "how": "Holds the two forces in tension where others can hold but one.",
-      "where": "Gallos to Elparta — The Mongrel Mage, Outcasts of Order, The Mage-Fire War." },
-    { "name": "Creslin", "class": "gray",
+      "where": "Gallos to Elparta — The Mongrel Mage, Outcasts of Order, The Mage-Fire War.",
+      "who": "The mongrel mage, a hunted gray who wields both order and chaos at once.",
+      "when": "The early age of Candar's warring city-states — The Mongrel Mage through The Mage-Fire War."
+    },
+    {
+      "name": "Creslin",
+      "class": "gray",
       "what": "Weather-mage and reluctant founder of Recluce.",
       "why": "Flees an arranged life and builds a refuge instead.",
       "how": "Bends wind and storm — order and chaos both, at terrible cost.",
-      "where": "Westwind to the Roof of the World to Recluce — The Towers of the Sunset." },
-    { "name": "Megaera", "class": "gray",
+      "where": "Westwind to the Roof of the World to Recluce — The Towers of the Sunset.",
+      "who": "A Westwind weather-mage and gray-wielder, the reluctant founder of Recluce.",
+      "when": "The founding of Recluce itself — The Towers of the Sunset."
+    },
+    {
+      "name": "Megaera",
+      "class": "gray",
       "what": "Healer, and Creslin's bonded other half.",
       "why": "Chained to him by magic; freed, at last, by her own choice.",
       "how": "Chaos and healing held in balance against his order.",
-      "where": "Recluce — The Towers of the Sunset." },
-    { "name": "Dorrin", "class": "engineers",
+      "where": "Recluce — The Towers of the Sunset.",
+      "who": "A healer and chaos-touched gray, Creslin's magically bonded other half and co-founder.",
+      "when": "The founding of Recluce — The Towers of the Sunset."
+    },
+    {
+      "name": "Dorrin",
+      "class": "engineers",
       "what": "Order-smith and engineer.",
       "why": "Cast out for tinkering; proves order can be machined.",
       "how": "Builds black ships and engines no chaos-fire can burn.",
-      "where": "Recluce and Diev — The Magic Engineer." },
-    { "name": "Nylan", "class": "engineers",
+      "where": "Recluce and Diev — The Magic Engineer.",
+      "who": "An order-smith and engineer of Recluce, father of its black-iron shipcraft.",
+      "when": "The age of the great Order-Chaos war against Fairhaven — The Magic Engineer."
+    },
+    {
+      "name": "Nylan",
+      "class": "engineers",
       "what": "The angels' engineer.",
       "why": "Stranded from the sky, he must build to keep his people alive.",
       "how": "Smithcraft and order salvaged from a wrecked starship.",
-      "where": "The Roof of the World, Westwind — Fall of Angels." },
-    { "name": "Justen", "class": "engineers",
+      "where": "The Roof of the World, Westwind — Fall of Angels.",
+      "who": "The angels' smith and engineer, an exile from the sky building order from a wreck.",
+      "when": "The fall of the angels and the first days of Westwind — Fall of Angels."
+    },
+    {
+      "name": "Justen",
+      "class": "engineers",
       "what": "Engineer-mage of Recluce.",
       "why": "War forces him to weigh order against total ruin.",
       "how": "Machines first — then the terrible balance-magic that ends a war.",
-      "where": "Recluce and Candar — The Order War, The Death of Chaos." },
-    { "name": "Saryn", "class": "angels",
+      "where": "Recluce and Candar — The Order War, The Death of Chaos.",
+      "who": "An engineer-mage of Recluce who turns from machines to the balance-magic that ends a war.",
+      "when": "The age of the Order War and its terrible close — The Order War and The Death of Chaos."
+    },
+    {
+      "name": "Saryn",
+      "class": "angels",
       "what": "Arms-Commander of Westwind.",
       "why": "Holds a women's hold against a world that wants it gone.",
       "how": "Blade, command, and angel-forged steel.",
-      "where": "Westwind and Lornth — Arms-Commander." },
-    { "name": "Ayrlyn", "class": "angels",
+      "where": "Westwind and Lornth — Arms-Commander.",
+      "who": "Arms-Commander of Westwind, an angel-descended blade holding the women's hold.",
+      "when": "The age of Westwind's struggle to endure in Candar — Arms-Commander."
+    },
+    {
+      "name": "Ayrlyn",
+      "class": "angels",
       "what": "Singer turned healer-mage.",
       "why": "Finds her purpose in the new world after the fall.",
       "how": "Song, healing, and a quiet order.",
-      "where": "Westwind — Fall of Angels, The Chaos Balance." },
-    { "name": "Ryba", "class": "angels",
+      "where": "Westwind — Fall of Angels, The Chaos Balance.",
+      "who": "A Westwind singer turned healer-mage, finding quiet order in the new world.",
+      "when": "The era after the fall of the angels — Fall of Angels into The Chaos Balance."
+    },
+    {
+      "name": "Ryba",
+      "class": "angels",
       "what": "The Marshall of Westwind.",
       "why": "Founds a hold meant to outlast prophecy itself.",
       "how": "Cold command and the very long view.",
-      "where": "Westwind — Fall of Angels." },
-    { "name": "The Balance", "class": "balance",
+      "where": "Westwind — Fall of Angels.",
+      "who": "The Marshall of Westwind, the cold founder of a hold meant to outlast prophecy.",
+      "when": "The fall of the angels and the founding of Westwind — Fall of Angels."
+    },
+    {
+      "name": "The Balance",
+      "class": "balance",
       "what": "The law that Order and Chaos must balance.",
       "why": "Because the world cannot hold an excess of either, and survives only at equilibrium.",
       "how": "Every working of power exacts an equal cost; overreach burns the wielder to ash.",
-      "where": "Everywhere, always — the true power of Recluce, beneath every mage on this roll." }
+      "where": "Everywhere, always — the true power of Recluce, beneath every mage on this roll.",
+      "who": "Not a person but the binding law of Order and Chaos — the true protagonist of Recluce.",
+      "when": "Everywhere and always, across the whole long saga of Recluce."
+    }
   ]
 }

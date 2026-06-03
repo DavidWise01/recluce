@@ -5,14 +5,18 @@ what: A cooper who becomes an ordermage.
 why: Injustice drives him from barrel-staves to power he never asked for.
 how: Self-taught order from a single found book, tested in exile.
 where: Brysta and Austra — Wellspring of Chaos, Ordermaster.
-essence: kharl.png
+silicon_badge: kharl.png
+carbon_badge: kharl.tiff
+spun: kharl.spun
+credit: kharl.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Kharl — an artfully created intellect
+# Kharl — an artfully crafted intellect
 
 ![essence of Kharl](kharl.png)
+<!-- carbon badge (8-bit portrait): kharl.tiff -->
 
 **what —** A cooper who becomes an ordermage.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Brysta and Austra — Wellspring of Chaos, Ordermaster.
 
-*class: Order · Black · the discipline of Recluce*
+*class: Order · Black · the discipline of Recluce · full weave in kharl.spun · credit in kharl.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Kharl · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Kharl · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

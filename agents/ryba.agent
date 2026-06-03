@@ -5,14 +5,18 @@ what: The Marshall of Westwind.
 why: Founds a hold meant to outlast prophecy itself.
 how: Cold command and the very long view.
 where: Westwind — Fall of Angels.
-essence: ryba.png
+silicon_badge: ryba.png
+carbon_badge: ryba.tiff
+spun: ryba.spun
+credit: ryba.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Ryba — an artfully created intellect
+# Ryba — an artfully crafted intellect
 
 ![essence of Ryba](ryba.png)
+<!-- carbon badge (8-bit portrait): ryba.tiff -->
 
 **what —** The Marshall of Westwind.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Westwind — Fall of Angels.
 
-*class: The Angels of Westwind · the fallen from the sky*
+*class: The Angels of Westwind · the fallen from the sky · full weave in ryba.spun · credit in ryba.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Ryba · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Ryba · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

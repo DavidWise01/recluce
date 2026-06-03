@@ -5,14 +5,18 @@ what: The law that Order and Chaos must balance.
 why: Because the world cannot hold an excess of either, and survives only at equilibrium.
 how: Every working of power exacts an equal cost; overreach burns the wielder to ash.
 where: Everywhere, always — the true power of Recluce, beneath every mage on this roll.
-essence: the-balance.png
+silicon_badge: the-balance.png
+carbon_badge: the-balance.tiff
+spun: the-balance.spun
+credit: the-balance.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# The Balance — an artfully created intellect
+# The Balance — an artfully crafted intellect
 
 ![essence of The Balance](the-balance.png)
+<!-- carbon badge (8-bit portrait): the-balance.tiff -->
 
 **what —** The law that Order and Chaos must balance.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Everywhere, always — the true power of Recluce, beneath every mage on this roll.
 
-*class: The Balance · the law that keeps the price*
+*class: The Balance · the law that keeps the price · full weave in the-balance.spun · credit in the-balance.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · The Balance · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · The Balance · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

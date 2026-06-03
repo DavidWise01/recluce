@@ -5,14 +5,18 @@ what: Order-mage and woodcrafter.
 why: Exiled from Recluce for the sin of boredom; learns that order is discipline, not dogma.
 how: The patience of grain and joinery — order woven slow into wood and self.
 where: Recluce, then Candar — The Magic of Recluce.
-essence: lerris.png
+silicon_badge: lerris.png
+carbon_badge: lerris.tiff
+spun: lerris.spun
+credit: lerris.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Lerris — an artfully created intellect
+# Lerris — an artfully crafted intellect
 
 ![essence of Lerris](lerris.png)
+<!-- carbon badge (8-bit portrait): lerris.tiff -->
 
 **what —** Order-mage and woodcrafter.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Recluce, then Candar — The Magic of Recluce.
 
-*class: Order · Black · the discipline of Recluce*
+*class: Order · Black · the discipline of Recluce · full weave in lerris.spun · credit in lerris.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Lerris · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Lerris · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

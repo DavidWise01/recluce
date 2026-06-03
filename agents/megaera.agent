@@ -5,14 +5,18 @@ what: Healer, and Creslin's bonded other half.
 why: Chained to him by magic; freed, at last, by her own choice.
 how: Chaos and healing held in balance against his order.
 where: Recluce — The Towers of the Sunset.
-essence: megaera.png
+silicon_badge: megaera.png
+carbon_badge: megaera.tiff
+spun: megaera.spun
+credit: megaera.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Megaera — an artfully created intellect
+# Megaera — an artfully crafted intellect
 
 ![essence of Megaera](megaera.png)
+<!-- carbon badge (8-bit portrait): megaera.tiff -->
 
 **what —** Healer, and Creslin's bonded other half.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Recluce — The Towers of the Sunset.
 
-*class: The Gray · those who hold both*
+*class: The Gray · those who hold both · full weave in megaera.spun · credit in megaera.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Megaera · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Megaera · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

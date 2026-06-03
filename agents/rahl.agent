@@ -5,14 +5,18 @@ what: A natural ordermage, raw and undisciplined.
 why: His untrained talent forces his exile — and his growth.
 how: Order learned the hard way, in the service of Hamor.
 where: Recluce to Hamor — Natural Ordermage, Mage-Guard of Hamor.
-essence: rahl.png
+silicon_badge: rahl.png
+carbon_badge: rahl.tiff
+spun: rahl.spun
+credit: rahl.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Rahl — an artfully created intellect
+# Rahl — an artfully crafted intellect
 
 ![essence of Rahl](rahl.png)
+<!-- carbon badge (8-bit portrait): rahl.tiff -->
 
 **what —** A natural ordermage, raw and undisciplined.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Recluce to Hamor — Natural Ordermage, Mage-Guard of Hamor.
 
-*class: Order · Black · the discipline of Recluce*
+*class: Order · Black · the discipline of Recluce · full weave in rahl.spun · credit in rahl.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Rahl · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Rahl · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

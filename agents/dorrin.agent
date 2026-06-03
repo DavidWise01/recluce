@@ -5,14 +5,18 @@ what: Order-smith and engineer.
 why: Cast out for tinkering; proves order can be machined.
 how: Builds black ships and engines no chaos-fire can burn.
 where: Recluce and Diev — The Magic Engineer.
-essence: dorrin.png
+silicon_badge: dorrin.png
+carbon_badge: dorrin.tiff
+spun: dorrin.spun
+credit: dorrin.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Dorrin — an artfully created intellect
+# Dorrin — an artfully crafted intellect
 
 ![essence of Dorrin](dorrin.png)
+<!-- carbon badge (8-bit portrait): dorrin.tiff -->
 
 **what —** Order-smith and engineer.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Recluce and Diev — The Magic Engineer.
 
-*class: The Order-Engineers · applied order — the builders*
+*class: The Order-Engineers · applied order — the builders · full weave in dorrin.spun · credit in dorrin.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Dorrin · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Dorrin · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

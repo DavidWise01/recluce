@@ -5,14 +5,18 @@ what: An orphan who rises to White mage of Fairhaven.
 why: Survival first, then mastery, in a guild that kills the untalented.
 how: Chaos-fire bound by hidden order and ruthless patience.
 where: Fairhaven — The White Order, Colors of Chaos.
-essence: cerryl.png
+silicon_badge: cerryl.png
+carbon_badge: cerryl.tiff
+spun: cerryl.spun
+credit: cerryl.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Cerryl — an artfully created intellect
+# Cerryl — an artfully crafted intellect
 
 ![essence of Cerryl](cerryl.png)
+<!-- carbon badge (8-bit portrait): cerryl.tiff -->
 
 **what —** An orphan who rises to White mage of Fairhaven.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Fairhaven — The White Order, Colors of Chaos.
 
-*class: Chaos · White · the fire of Fairhaven*
+*class: Chaos · White · the fire of Fairhaven · full weave in cerryl.spun · credit in cerryl.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Cerryl · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Cerryl · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

@@ -5,14 +5,18 @@ what: Weather-mage and reluctant founder of Recluce.
 why: Flees an arranged life and builds a refuge instead.
 how: Bends wind and storm — order and chaos both, at terrible cost.
 where: Westwind to the Roof of the World to Recluce — The Towers of the Sunset.
-essence: creslin.png
+silicon_badge: creslin.png
+carbon_badge: creslin.tiff
+spun: creslin.spun
+credit: creslin.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Creslin — an artfully created intellect
+# Creslin — an artfully crafted intellect
 
 ![essence of Creslin](creslin.png)
+<!-- carbon badge (8-bit portrait): creslin.tiff -->
 
 **what —** Weather-mage and reluctant founder of Recluce.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Westwind to the Roof of the World to Recluce — The Towers of the Sunset.
 
-*class: The Gray · those who hold both*
+*class: The Gray · those who hold both · full weave in creslin.spun · credit in creslin.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Creslin · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Creslin · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

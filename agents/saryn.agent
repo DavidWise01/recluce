@@ -5,14 +5,18 @@ what: Arms-Commander of Westwind.
 why: Holds a women's hold against a world that wants it gone.
 how: Blade, command, and angel-forged steel.
 where: Westwind and Lornth — Arms-Commander.
-essence: saryn.png
+silicon_badge: saryn.png
+carbon_badge: saryn.tiff
+spun: saryn.spun
+credit: saryn.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Saryn — an artfully created intellect
+# Saryn — an artfully crafted intellect
 
 ![essence of Saryn](saryn.png)
+<!-- carbon badge (8-bit portrait): saryn.tiff -->
 
 **what —** Arms-Commander of Westwind.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** Westwind and Lornth — Arms-Commander.
 
-*class: The Angels of Westwind · the fallen from the sky*
+*class: The Angels of Westwind · the fallen from the sky · full weave in saryn.spun · credit in saryn.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Saryn · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Saryn · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT

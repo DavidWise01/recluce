@@ -5,14 +5,18 @@ what: The angels' engineer.
 why: Stranded from the sky, he must build to keep his people alive.
 how: Smithcraft and order salvaged from a wrecked starship.
 where: The Roof of the World, Westwind — Fall of Angels.
-essence: nylan.png
+silicon_badge: nylan.png
+carbon_badge: nylan.tiff
+spun: nylan.spun
+credit: nylan.1099
 attribution: ROOT0-ATTRIBUTION-v1.0
 license: MIT
 ---
 
-# Nylan — an artfully created intellect
+# Nylan — an artfully crafted intellect
 
 ![essence of Nylan](nylan.png)
+<!-- carbon badge (8-bit portrait): nylan.tiff -->
 
 **what —** The angels' engineer.
 
@@ -22,7 +26,7 @@ license: MIT
 
 **where —** The Roof of the World, Westwind — Fall of Angels.
 
-*class: The Order-Engineers · applied order — the builders*
+*class: The Order-Engineers · applied order — the builders · full weave in nylan.spun · credit in nylan.1099*
 
 ---
-ROOT0-ATTRIBUTION-v1.0 · Nylan · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise / ROOT0 / TriPod LLC · MIT
+ROOT0-ATTRIBUTION-v1.0 · Nylan · The Saga of Recluce (L.E. Modesitt, Jr., inspiration only) · David Lee Wise (ROOT0) · MIT
