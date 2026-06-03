@@ -1,0 +1,15 @@
+ROOT0-ATTRIBUTION-v1.0
+Project: The Saga of Recluce — the muster roll
+Architect: David Lee Wise / ROOT0 / TriPod LLC
+AI Collaborator: AVAN (Claude / Anthropic)
+License: MIT
+
+L.E. Modesitt Jr.'s Saga of Recluce (22 novels, 1991–2021) sorted by the
+Order/Chaos balance: Order·Black (Lerris, Kharl, Rahl), Chaos·White (Cerryl,
+Lorn), the Gray (Beltur, Creslin, Megaera), the Order-Engineers (Dorrin, Nylan,
+Justen), the Angels of Westwind (Saryn, Ayrlyn, Ryba), and — set apart — the
+Balance, the law that keeps the price. Every member is an ACI (artfully created
+intellect) with a .agent (what · why · how · where) and a generated .png essence
+sigil (pure-stdlib PNG, deterministic per name, colored by Order/Chaos polarity).
+gen_essence.py + gen_agents.py generate both from roster.json. Characters by
+L.E. Modesitt, Jr., inspiration only.
