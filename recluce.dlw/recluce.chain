@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 950
 slug  : recluce
-seal  : cf11facbc264eee76c73d443f5e1a3a5ad55a912cf93f3f0e4b84a0b676466a2
-prev  : 82804d360e6cc4328da0fea95e52b4e0dba5230e5c17fdf129048944809855a1
-link  : ff4602151392cd5d3d5a23226736f824c9a06ca917dd7e892292cf9e4622ca08
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : e0ff9d568138471be9e63aac91e3c5c3360aa36705337e77cf49feca727d672e
+prev  : c728ea14ac87f86e262635fa1c77c0f0514e7dd23cc6434152970cbe0b641aab
+link  : 43c1eda699fd6f019b2a6bbf4b38faa01070e2b5cdbff8ebac51176b0e87aad8
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
